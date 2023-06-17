@@ -1,0 +1,3 @@
+kjfdvjfv
+
+@include ('partials.krneki')
